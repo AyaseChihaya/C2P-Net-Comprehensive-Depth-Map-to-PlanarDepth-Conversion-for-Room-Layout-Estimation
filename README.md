@@ -8,12 +8,13 @@ Room layout estimation seeks to infer the overall spatial configuration of indoo
 #### An overview of C2P-Net for perspective images.
 ![An overview of C2P-Net for perspective images.](figure/pers_framework4.png)
 
-#### The visual results of perspective layout estimation on Matterport3D-Layout and InteriorNet-Layout datasets.
-![The visual results of perspective layout estimation on Matterport3D-Layout and InteriorNet-Layout datasets.](figure/pers_visual3.png)
-
 
 #### The visual results of panoramic layout estimation on MatterportLayout datase.
 ![The visual results of panoramic layout estimation on MatterportLayout datase.](figure/pano_visual4.png)
+
+
+#### The visual results of perspective layout estimation on Matterport3D-Layout and InteriorNet-Layout datasets.
+![The visual results of perspective layout estimation on Matterport3D-Layout and InteriorNet-Layout datasets.](figure/pers_visual3.png)
 
 
 ## Note
