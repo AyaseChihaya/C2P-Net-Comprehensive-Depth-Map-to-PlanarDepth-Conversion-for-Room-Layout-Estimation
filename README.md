@@ -8,7 +8,7 @@ Room layout estimation seeks to infer the overall spatial configuration of indoo
 The code will be made open-source soon. We are currently in the process of organizing and refining the code to ensure that it is well-documented and user-friendly.
 
 # Dataset
-## Panoramic datasets
+#### Panoramic datasets
 Stanford 2D-3D.
 
 PanoContext.
@@ -17,15 +17,15 @@ MatterportLayout.
 
 ZInD.
 
-## Perspective datasets
+#### Perspective datasets
 
 
 
 # Visual results
-## Panoramic-image-based layout estimation
+#### Panoramic-image-based layout estimation
 ![The visual results of panoramic layout estimation on MatterportLayout dataset.](figure/pano_visual4.png)
 
-## Perspective-image-based layout estimation
+#### Perspective-image-based layout estimation
 ![The visual results of perspective layout estimation on Matterport3D-Layout and InteriorNet-Layout datasets.](figure/pers_visual3.png)
 
 # Contact
