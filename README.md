@@ -10,7 +10,12 @@ The code will be made open-source soon. We are currently in the process of organ
 # Dataset
 ## Panoramic datasets
 Stanford 2D-3D.
+
 PanoContext.
+
+MatterportLayout.
+
+ZInD.
 
 ## Perspective datasets
 
