@@ -16,5 +16,5 @@ Room layout estimation seeks to infer the overall spatial configuration of indoo
 ![The visual results of panoramic layout estimation on MatterportLayout datase.](figure/pano_visual4.png)
 
 
-
-This project is under development, and we plan to open source the code. Welcome to participate and contribute at that time!
+## Note
+At present, this project has not been made public, but we plan to open source to the community. You are welcome to discuss the functional requirements and contribution methods of the project here and get relevant information in advance！
